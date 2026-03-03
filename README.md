@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/ffffff/ff0000?text=AI" alt="İnönü AI Logo" width="120" />
   <h1>🤖 İnönü AI</h1>
   <p><b>İnönü Üniversitesi - Akıllı Kampüs Chatbot ve Bilgi Asistanı Modeli</b></p>
 
@@ -33,4 +32,5 @@ Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri
 > 📌 **İletişim:** İnonu Aİ'in algoritma işleyişi, teknik özellikleri, detaylı veri şeması, canlı proje test linkleri ve arayüz görselleri talep edilmesi durumunda karşı tarafa doğrudan PDF ve sunum formatında iletilecektir.
 
 ---
+
 
