@@ -27,7 +27,10 @@
 
 ---
 
-## 📥 Proje Demoları ve Çıktılar
-Bu yapay zeka entegrasyonuna ait model ağırlıkları, scraping scriptleri ve veritabanı şemaları kapalı kaynak olarak geliştirilmektedir.
+## 📥 Proje Demoları ve Görseller
+Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri bu genel dokümantasyonda direkt olarak yer almamaktadır.
 
-> 📌 **İletişim & Sunum:** Sistemimizin mimarisine (scraper botlarının hızı, NLP modelinin eğitim metrikleri vb.), arayüz görsellerine ve *canlı İnönü AI test bağlantısına* (Chatbot web/mobil arayüzü) ait dokümantasyonlar, **talep edilmesi durumunda karşı tarafa doğrudan iletilecektir.**
+> 📌 **İletişim:** Campus Life'in algoritma işleyişi, teknik özellikleri, detaylı veri şeması, canlı proje test linkleri ve arayüz görselleri talep edilmesi durumunda karşı tarafa doğrudan PDF ve sunum formatında iletilecektir.
+
+---
+
