@@ -30,7 +30,7 @@
 ## 📥 Proje Demoları ve Görseller
 Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri bu genel dokümantasyonda direkt olarak yer almamaktadır.
 
-> 📌 **İletişim:** Campus Life'in algoritma işleyişi, teknik özellikleri, detaylı veri şeması, canlı proje test linkleri ve arayüz görselleri talep edilmesi durumunda karşı tarafa doğrudan PDF ve sunum formatında iletilecektir.
+> 📌 **İletişim:** İnonu Aİ'in algoritma işleyişi, teknik özellikleri, detaylı veri şeması, canlı proje test linkleri ve arayüz görselleri talep edilmesi durumunda karşı tarafa doğrudan PDF ve sunum formatında iletilecektir.
 
 ---
 
